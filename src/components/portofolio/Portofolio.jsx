@@ -25,7 +25,7 @@ const Portofolio = () => {
               Github
             </a>
             <a
-              href="https://github.com/JJJason321/nextjs-site-1" target='_blank' rel="noreferrer"
+              href="https://nextjs-site-1.vercel.app/" target='_blank' rel="noreferrer"
               className="btn btn-primary"
             >
               LiveDemo
@@ -45,7 +45,7 @@ const Portofolio = () => {
               Github
             </a>
             <a
-              href="https://github.com/JJJason321/react-site-2" target='_blank' rel="noreferrer"
+              href="https://react-site-2-eight.vercel.app/" target='_blank' rel="noreferrer"
               className="btn btn-primary"
             >
               LiveDemo
@@ -65,7 +65,7 @@ const Portofolio = () => {
               Github
             </a>
             <a
-              href="https://github.com/JJJason321/react-site-1" target='_blank' rel="noreferrer"
+              href="https://react-site-1-rho.vercel.app/" target='_blank' rel="noreferrer"
               className="btn btn-primary"
             >
               LiveDemo
