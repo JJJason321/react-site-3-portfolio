@@ -44,3 +44,9 @@
     grid-template-columns: 1fr;
   }
 }
+
+.demo_Pic {
+  max-height: 300px;
+  min-height: 250px;
+ 
+}
