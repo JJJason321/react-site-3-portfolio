@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Resume from '../../assets/XinyuFeng-Resume.pdf'
+import Resume from '../../assets/Feng-Resume.pdf'
 
 const CTA = () => {
   return (
